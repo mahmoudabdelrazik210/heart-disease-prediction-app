@@ -51,4 +51,4 @@ if st.button("🔍 Predict"):
     st.plotly_chart(fig, use_container_width=True)
 
 st.markdown("---")
-st.caption("👨‍💻 Developed by Kerolos Medhat | Heart Disease Prediction App")
+st.caption("👨‍💻 Developed by mahmoud abdelrazik | Heart Disease Prediction App")
